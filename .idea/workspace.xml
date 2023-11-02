@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a86cb99-6a87-4a98-b408-af32c2e3b431" name="Changes" comment="" />
+    <list default="true" id="1a86cb99-6a87-4a98-b408-af32c2e3b431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov2Repaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Ordenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Palabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Proyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/PruebaOrdenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/PruebaPalabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/PruebaProyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/PruebaVendedor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +53,68 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ProbarArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarArrays" />
+      <module name="Nov2Repaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaPalabras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.PruebaPalabras" />
+      <module name="Nov2Repaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaProyecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.PruebaProyecto" />
+      <module name="Nov2Repaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaVendedor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.PruebaVendedor" />
+      <module name="Nov2Repaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PruebaPalabras" />
+        <item itemvalue="Application.ProbarArrays" />
+        <item itemvalue="Application.PruebaProyecto" />
+        <item itemvalue="Application.PruebaVendedor" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
